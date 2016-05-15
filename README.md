@@ -1,6 +1,6 @@
 # hello-world
-A student at University of Waterloo\n
-Studying Computer Science\n
-Formula 1 fan\n
-Tennis player\n
-Hello!\n
+A student at University of Waterloo
+Studying Computer Science
+Formula 1 fan
+Tennis player
+#Hello!
